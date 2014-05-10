@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Legend of Mir">
+</Property><Property Name="Solution File" Value="C:\Users\Hany\Desktop\C# MIR ALWAYS UPDATED\Legend of Mir.sln">
+</Property><Property Name="Date" Value="Saturday, May 10, 2014">
+</Property><Property Name="Time" Value="18:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="LibraryEditor" Source="LibraryEditor\LibraryEditor.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="LibraryEditor" Source="LibraryEditor\LibraryEditor.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="AutoPatcher" Source="AutoPatcher\AutoPatcher.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AutoPatcher" Source="AutoPatcher\AutoPatcher.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="AutoPatcherAdmin" Source="AutoPatcherAdmin\AutoPatcherAdmin.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="AutoPatcherAdmin" Source="AutoPatcherAdmin\AutoPatcherAdmin.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Legend of Mir.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Legend of Mir.sln" Description="Converted">
+</Event></UpgradeLog>
