@@ -1,0 +1,1667 @@
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirGraphics.DXManager' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirGraphics.DXManager..cctor()
+   --- End of inner exception stack trace ---
+   at Client.MirGraphics.DXManager.Create()
+   at Client.CMain.CMain_Load(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 80
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.CMain_MouseMove(Object sender, MouseEventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 147
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirGraphics.DXManager' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirGraphics.DXManager..cctor()
+   --- End of inner exception stack trace ---
+   at Client.MirGraphics.DXManager.Clean()
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 279
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:39 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.CMain_KeyDown(Object sender, KeyEventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 129
+[4/8/2014 4:23:42 PM] System.TypeInitializationException: The type initializer for 'Client.MirGraphics.DXManager' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirGraphics.DXManager..cctor()
+   --- End of inner exception stack trace ---
+   at Client.MirGraphics.DXManager.Clean()
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 279
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:42 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:42 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 4:23:42 PM] System.TypeInitializationException: The type initializer for 'Client.MirControls.MirScene' threw an exception. ---> System.IO.FileLoadException: Mixed mode assembly is built against version 'v1.1.4322' of the runtime and cannot be loaded in the 4.0 runtime without additional configuration information.
+   at Client.MirSounds.SoundManager.PlaySound(Int32 index, Boolean loop)
+   at Client.MirScenes.LoginScene..ctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\LoginScene.cs:line 31
+   at Client.MirControls.MirScene..cctor() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 13
+   --- End of inner exception stack trace ---
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 286
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 7:34:29 PM] System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Client.MirControls.MirControl.OnVisibleChanged() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 581
+   at Client.MirControls.MirControl.set_Visible(Boolean value) in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 552
+   at Client.MirScenes.GameScene.CreateItemLabel(UserItem item, Boolean Inspect) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 3125
+   at Client.MirScenes.GameScene.Process() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 584
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 287
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/8/2014 7:34:42 PM] System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Client.MirControls.MirControl.OnVisibleChanged() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 581
+   at Client.MirControls.MirControl.set_Visible(Boolean value) in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 552
+   at Client.MirScenes.GameScene.CreateItemLabel(UserItem item, Boolean Inspect) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 3125
+   at Client.MirScenes.GameScene.Process() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 584
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 287
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/29/2014 11:42:20 PM] System.FormatException: Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+   at System.Text.StringBuilder.AppendFormat(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(IFormatProvider provider, String format, Object[] args)
+   at System.String.Format(String format, Object arg0)
+   at Client.MirScenes.CharacterDialog.<.ctor>b__28(Object o, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 6456
+   at Client.MirControls.MirControl.BeforeDrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 650
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 636
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirControl.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 638
+   at Client.MirControls.MirControl.DrawChildControls() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 676
+   at Client.MirControls.MirScene.CreateTexture() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 73
+   at Client.MirControls.MirControl.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 658
+   at Client.MirScenes.GameScene.DrawControl() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 542
+   at Client.MirControls.MirScene.Draw() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirScene.cs:line 42
+   at Client.CMain.RenderEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 314
+[4/30/2014 8:44:59 PM] System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Client.MirControls.MirControl.OnVisibleChanged() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 581
+   at Client.MirControls.MirControl.set_Visible(Boolean value) in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 552
+   at Client.MirScenes.GameScene.CreateItemLabel(UserItem item, Boolean Inspect) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 3125
+   at Client.MirScenes.GameScene.Process() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 584
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 287
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[5/2/2014 8:25:28 PM] Error in the application.
+-2005530516 (D3DERR_INVALIDCALL)
+   at Microsoft.DirectX.Direct3D.Texture..ctor(Device device, Int32 width, Int32 height, Int32 numLevels, Usage usage, Format format, Pool pool)
+   at Client.MirControls.MirControl.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirControls.MirControl.Draw()
+   at Client.MirControls.MirControl.DrawChildControls()
+   at Client.MirControls.MirScene.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirScenes.GameScene.DrawControl()
+   at Client.MirControls.MirScene.Draw()
+   at Client.CMain.RenderEnviroment()
+[5/2/2014 8:43:54 PM] Error in the application.
+-2005530516 (D3DERR_INVALIDCALL)
+   at Microsoft.DirectX.Direct3D.Texture..ctor(Device device, Int32 width, Int32 height, Int32 numLevels, Usage usage, Format format, Pool pool)
+   at Client.MirControls.MirControl.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirControls.MirControl.Draw()
+   at Client.MirControls.MirControl.DrawChildControls()
+   at Client.MirControls.MirScene.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirScenes.GameScene.DrawControl()
+   at Client.MirControls.MirScene.Draw()
+   at Client.CMain.RenderEnviroment()
+[5/2/2014 8:45:42 PM] System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Client.MirControls.MirControl.OnVisibleChanged()
+   at Client.MirControls.MirControl.set_Visible(Boolean value)
+   at Client.MirScenes.GameScene.CreateItemLabel(UserItem item, Boolean Inspect)
+   at Client.MirScenes.GameScene.Process()
+   at Client.CMain.UpdateEnviroment()
+   at Client.CMain.Application_Idle(Object sender, EventArgs e)
+[5/2/2014 9:01:09 PM] Error in the application.
+-2005530516 (D3DERR_INVALIDCALL)
+   at Microsoft.DirectX.Direct3D.Texture..ctor(Device device, Int32 width, Int32 height, Int32 numLevels, Usage usage, Format format, Pool pool)
+   at Client.MirControls.MirControl.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirControls.MirControl.Draw()
+   at Client.MirControls.MirControl.DrawChildControls()
+   at Client.MirControls.MirScene.CreateTexture()
+   at Client.MirControls.MirControl.DrawControl()
+   at Client.MirScenes.GameScene.DrawControl()
+   at Client.MirControls.MirScene.Draw()
+   at Client.CMain.RenderEnviroment()
+[5/5/2014 4:43:41 PM] System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException(ExceptionResource resource)
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at System.Collections.Generic.List`1.Enumerator.MoveNext()
+   at Client.MirControls.MirControl.OnVisibleChanged() in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 581
+   at Client.MirControls.MirControl.set_Visible(Boolean value) in C:\Users\Hany\Desktop\C#Mir\Client\MirControls\MirControl.cs:line 552
+   at Client.MirScenes.GameScene.CreateItemLabel(UserItem item, Boolean Inspect) in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 3125
+   at Client.MirScenes.GameScene.Process() in C:\Users\Hany\Desktop\C#Mir\Client\MirScenes\GameScene.cs:line 584
+   at Client.CMain.UpdateEnviroment() in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 287
+   at Client.CMain.Application_Idle(Object sender, EventArgs e) in C:\Users\Hany\Desktop\C#Mir\Client\CMain.cs:line 96
+[5/10/2014 10:46:07 PM] System.InvalidOperationException: Starting a second message loop on a single thread is not a valid operation. Use Form.ShowDialog instead.
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Client.Program.Main() in C:\Users\Hany\Desktop\C# MIR ALWAYS UPDATED\Client\Program.cs:line 26
+[5/10/2014 10:51:01 PM] System.InvalidOperationException: Starting a second message loop on a single thread is not a valid operation. Use Form.ShowDialog instead.
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Client.Program.Main() in C:\Users\Hany\Desktop\C# MIR ALWAYS UPDATED\Client\Program.cs:line 26
